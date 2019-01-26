@@ -1,2 +1,5 @@
 echo12:31 26.01.2019
-only one change on branch 1
+change 1
+change 2 
+change 3
+three changes on branch 3
